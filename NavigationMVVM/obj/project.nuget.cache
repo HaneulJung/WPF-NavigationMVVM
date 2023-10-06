@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBby7bgam9euaGLI6067x57gPxM5onk/kQkNO13Fw0LOQSqSUUAnH+XskLPoa+A5rxsHQxrLTflWHOmGe9+TBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gilon\\Desktop\\Cielo\\WPF_Application\\NavigationMVVM\\NavigationMVVM\\NavigationMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gilon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gilon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gilon\\.nuget\\packages\\simplemodal.wpf\\1.0.0\\simplemodal.wpf.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
