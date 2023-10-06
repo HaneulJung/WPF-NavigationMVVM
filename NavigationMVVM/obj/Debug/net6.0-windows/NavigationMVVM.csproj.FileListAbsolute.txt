@@ -34,3 +34,7 @@ C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\bin\D
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\obj\Debug\net6.0-windows\NavigationMVVM.csproj.CopyComplete
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\obj\Debug\net6.0-windows\Views\PeopleListingView.g.cs
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\obj\Debug\net6.0-windows\Views\PeopleListingView.baml
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\obj\Debug\net6.0-windows\Views\AddPersonView.g.cs
+C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\obj\Debug\net6.0-windows\Views\AddPersonView.baml

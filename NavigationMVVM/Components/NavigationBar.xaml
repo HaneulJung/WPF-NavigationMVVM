@@ -62,29 +62,28 @@
         <Button
             Grid.Column="2"
             Margin="10 0 0 0"
+            Command="{Binding NavigatePeopleListingCommand}"
+            Content="People" />
+        
+        <Button
+            Grid.Column="3"
+            Margin="10 0 0 0"
             Command="{Binding NavigateLoginCommand}"
             Content="Login" />
 
         <Button
-            Grid.Column="3"
+            Grid.Column="4"
             Margin="10 0 0 0"
             Command="{Binding NavigateAccountCommand}"
             Visibility="{Binding IsLoggedIn,Converter={StaticResource BooleanToVisibilityConverter}}"
             Content="Account" />
 
         <Button
-            Grid.Column="4"
+            Grid.Column="5"
             Margin="10 0 0 0"
             Command="{Binding LogoutCommand}"
             Content="Logout"
-            Visibility="{Binding IsLoggedIn, Converter={StaticResource BooleanToVisibilityConverter}}" />
-        
-        <!--<Button
-            Grid.Column="4"
-            Margin="10 0 0 0"
-            Command="{Binding NavigateAccountCommand}"
-            Content="Account"
-            Visibility="{Binding IsLoggedIn, Converter={StaticResource BooleanToVisibilityConverter}}" />-->
+            Visibility="{Binding IsLoggedIn, Converter={StaticResource BooleanToVisibilityConverter}}" />       
 
     </Grid>
 </UserControl>

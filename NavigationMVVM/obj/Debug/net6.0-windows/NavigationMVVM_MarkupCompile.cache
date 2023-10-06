@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Gilon\Desktop\Cielo\WPF_Application\NavigationMVVM\NavigationMVVM\App.xaml
-6-1688907182
+8149874864
 
-30-1566554478
+371377526393
 1971570501560
-Components\Layout.xaml;Components\NavigationBar.xaml;MainWindow.xaml;Views\AccountView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;
+Components\Layout.xaml;Components\NavigationBar.xaml;MainWindow.xaml;Views\AccountView.xaml;Views\AddPersonView.xaml;Views\HomeView.xaml;Views\LoginView.xaml;Views\PeopleListingView.xaml;
 
 False
 
